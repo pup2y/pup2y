@@ -1,7 +1,7 @@
 👋 Hi, I’m @pup2y
 👀 I’m interested in deep learning,python and c++,etc
 🌱 emmmm I'm searching for something new
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on SAR
 📫 How to reach me ...0338dong@gmail.com
 
 <!---
